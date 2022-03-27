@@ -1,5 +1,5 @@
 {
-    "name": "pantheon-systems/terminus-debugging-tools",
+    "name": "geraldvillorente/terminus-debugging-tools",
     "description": "Useful commands for debugging problems.",
     "type": "terminus-plugin",
     "extra": {
